@@ -1,6 +1,7 @@
 # Frontend de Chatbot para OCI Generative AI + n8n
 
-<img width="1686" height="922" alt="image" src="https://github.com/user-attachments/assets/6b044279-13ee-477c-8f96-8871d737ee4e" />
+<img width="1656" height="915" alt="image" src="https://github.com/user-attachments/assets/b77b3b28-835e-4a9f-a1c1-d26464112e07" />
+
 
 Este repositório contém o código-fonte de um frontend de chatbot elegante e responsivo, projetado para se integrar com qualquer backend de IA via [n8n](https://n8n.io/). A interface foi construída seguindo o sistema de design [Redwood da Oracle](https://redwood.oracle.com/), garantindo uma experiência de usuário limpa, moderna e profissional, ideal para demonstrar o poder da [Oracle Cloud Infrastructure (OCI) Generative AI](https://www.oracle.com/br/artificial-intelligence/generative-ai/).
 
@@ -24,8 +25,8 @@ Para rodar este frontend localmente, você só precisa de um servidor web simple
 
 **Clone o Repositório**
     ```bash
-    git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-    cd SEU-REPOSITORIO
+git clone https://github.com/pamagalhaes/oci-n8n-chatbot-frontend.git
+cd oci-n8n-chatbot-frontend
     ```
 **Acesse no Navegador**
     O terminal mostrará uma URL local, geralmente `http://localhost:3000`. Abra este endereço no seu navegador.
